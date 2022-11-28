@@ -1,0 +1,9 @@
+{
+  "port": 5000,
+  "dbURI": "mongodb://127.0.0.1:27017/auth",
+  "access_key": "my-access-key-333-55-71",
+  "refresh_key": "my-refresh-key-333-55-71",
+  "access_time": "30m",
+  "refresh_time": "30d",
+  "refresh_time_ms": "2592000000"
+}
